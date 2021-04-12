@@ -25,7 +25,7 @@
     "express": "^4.16.2",
     "jsonwebtoken": "^8.0.1",
     "mkdirp": "^1.0.4",
-    "mongoose": "^4.13.21",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.2",
     "sass": "^1.26.11",
     "sharp": "^0.25.4"
